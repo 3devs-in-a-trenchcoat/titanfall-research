@@ -7,7 +7,7 @@ The client contains a large number of Portal and Portal 2 specific strings indic
 - `#PORTAL2_Coop_YourPartnerInScience`
 - etc.
 - 
-Granted, there is also some Half-Life stuff like `d3_citadel_05` but since Portal 2 was released later the base engine was more likeley to be from Portal2.
+Granted, there is also some Half-Life stuff like `d3_citadel_05` but since Portal 2 was released later the base engine was more likely to be from Portal2.
 
 ## Network messages
 The client contains a number of Titanfall specific game state messages.
